@@ -2,6 +2,8 @@
 
 A Javascript CLI game that pits a load of monsters against one another in a battle to the death. Run to the hills the monsters are coming!
 
+![Game Screenie](./images/screenie.gif)
+
 ### Installing
 
 The project can be run either in development mode or by installing globally. To stay honest to the spec the CLI invocation accepts the total number of monsters to unleash as an argument but for a nicer user experience its also possible to run without any args and decide how many monsters to unleash via the command line interface.
