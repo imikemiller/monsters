@@ -24,7 +24,7 @@ In both cases the `monsters` argument is optional and if passed, should contain 
 `npm run test`
 
 ### Building
-The application is compiled into CJS modules using rollup. To generate a new distribution run:
+The application is compiled into a CJS module using rollup. To generate a new distribution run:
 
 `npm run build`
 
